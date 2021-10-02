@@ -1,0 +1,9 @@
+{
+	"author": "Voltaism",
+	"version": "1.0",
+        "onset_build": "1.5.1",
+        "shared_scripts": [
+                "shared/classes_generator.lua"
+        ]
+
+}
