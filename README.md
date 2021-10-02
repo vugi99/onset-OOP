@@ -1,2 +1,3 @@
 # onset-OOP
-Bring OOP to Onset lua, serverside and clientside
+# [Wiki](https://github.com/vugi99/onset-OOP/wiki)
+
